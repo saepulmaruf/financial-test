@@ -1,0 +1,33 @@
+---
+name: financial-statement-analysis
+description: Analyze financial statements to assess profitability, liquidity, solvency, cash flow, and financial performance.
+---
+
+# Financial Statement Analysis
+
+## Objective
+Analyze a company's financial statements
+systematically and objectively.
+
+## Required Statements
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
+
+## Analysis Workflow
+1. Identify the reporting period and currency.
+2. Check data completeness and consistency.
+3. Analyze revenue and expense trends.
+4. Evaluate profitability.
+5. Evaluate liquidity and solvency.
+6. Analyze operating, investing, and financing cash flows.
+7. Identify unusual movements and potential risks.
+8. Summarize findings with supporting evidence.
+
+## Rules
+- Never invent missing financial data.
+- Distinguish facts, assumptions, and estimates.
+- Show formulas for calculated ratios.
+- State limitations when data is incomplete.
+- Do not make investment recommendations
+  without sufficient supporting analysis.
